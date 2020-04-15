@@ -37,7 +37,7 @@ permalink: /schedule/
 <hr>
 <br>
 # Week5 (Date: TBA, Location: TBA)
-#### **Topic: AutoML, e.g., hyperparameter optimization, meta learning, and Neural Architecture Search (NAS) (lecture session)**
+#### **Topic: AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search (lecture session)**
 #### **Reading material**
 * TBA
 
@@ -45,7 +45,7 @@ permalink: /schedule/
 <hr>
 <br>
 # Week6 (Date: TBA, Location: TBA)
-#### **Topic: AutoML, e.g., hyperparameter optimization, meta learning, and Neural Architecture Search (NAS) (discussion session)**
+#### **Topic: AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search (discussion session)**
 #### **Reading material**
 * TBA
 
