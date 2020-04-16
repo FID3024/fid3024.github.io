@@ -5,7 +5,7 @@ permalink: /schedule/
 ---
 
 # Week1 (Date: TBA, Location: TBA)
-#### **Topic: Fundamental ML, e.g., generalization, back-propagation, etc. (lecture session)**
+#### **Topic: Fundamental of ML, e.g., generalization, back-propagation, etc. (lecture session)**
 #### **Reading material**
 * TBA
 
@@ -13,7 +13,7 @@ permalink: /schedule/
 <hr>
 <br>
 # Week2 (Date: TBA, Location: TBA)
-#### **Topic: Fundamental ML, e.g., generalization, back-propagation, etc. (discussion session)**
+#### **Topic: Fundamental of ML, e.g., generalization, back-propagation, etc. (discussion session)**
 #### **Reading material**
 * TBA
 
