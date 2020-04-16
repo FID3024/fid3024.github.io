@@ -37,3 +37,11 @@ The students, then have a week to study the topic and go through the reading mat
 # Examination and completion
 The course will be assessed with a Pass/Fail grade, based on active participation in the discussion meetings, as well as a scientifically sound review report in each week. 
 In addition to this, a passing student must attend at least 75% of all lectures and 75% of all student presentation sessions.
+
+<br>
+<hr>
+<br>
+# Recommended prerequisites
+The target students of the course are mainly PhD students of the computer science, information and communication technology, and electrical engineering doctoral programmes, as well as all other PhD 
+students who are interested to know the architecture and fundamentals of modern ML systems. The students should be familiar with the basics of ML, distributed systems, and have a good programming knowledge 
+especially in Python or Scala.
