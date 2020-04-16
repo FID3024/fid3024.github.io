@@ -4,7 +4,7 @@ title: Course Information
 permalink: /course_info/
 ---
 # Course contents
-The course covers the following topics in the same order
+The course covers the following topics:
 1. Fundamental of ML, e.g., generalization, back-propagation, etc.
 2. Parallelization, e.g., data-parallel, model-parallel
 3. AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search
