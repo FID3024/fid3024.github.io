@@ -37,7 +37,7 @@ permalink: /schedule/
 <hr>
 <br>
 # Lecture Session 3 (Date: Week 42, Location: TBA)
-#### **Topic: AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search**
+#### **Topic: Scheduling and optimization, e.g., model compression, gradient compression, etc.**
 #### **Reading material**
 * TBA
 
@@ -45,7 +45,7 @@ permalink: /schedule/
 <hr>
 <br>
 # Discussion Session 3 (Date: Week 43, Location: TBA)
-#### **Topic: AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search**
+#### **Topic: Scheduling and optimization, e.g., model compression, gradient compression, etc.**
 #### **Reading material**
 * TBA
 
@@ -53,7 +53,7 @@ permalink: /schedule/
 <hr>
 <br>
 # Lecture Session 4 (Date: Week 44, Location: TBA)
-#### **Topic: Scheduling and optimization, e.g., model compression, gradient compression, etc.**
+#### **Topic: AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search**
 #### **Reading material**
 * TBA
 
@@ -61,7 +61,7 @@ permalink: /schedule/
 <hr>
 <br>
 # Discussion Session 4 (Date: Week 45, Location: TBA)
-#### **Topic: Scheduling and optimization, e.g., model compression, gradient compression, etc.**
+#### **Topic: AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search**
 #### **Reading material**
 * TBA
 

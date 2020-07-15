@@ -7,8 +7,8 @@ permalink: /course_info/
 The course covers the following topics:
 1. Fundamental of ML, e.g., generalization, back-propagation, etc.
 2. Parallelization, e.g., data-parallel, model-parallel
-3. AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search
-4. Scheduling and optimization, e.g., model compression, gradient compression, etc.
+3. Scheduling and optimization, e.g., model compression, gradient compression, etc.
+4. AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search
 5. Robust learning, e.g., byzantine-resilient learning
 6. ML platforms, e.g., TensorFlow, Ray, Mllib
 
