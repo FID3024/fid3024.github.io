@@ -21,7 +21,7 @@ permalink: /schedule/
 <hr>
 <br>
 # Lecture Session 2 (Date: Week 40, Location: TBA)
-#### **Topic: Parallelization, e.g., data-parallel, model-parallel**
+#### **Topic: Distributed learning, e.g., data-parallel, model-parallel**
 #### **Reading material**
 * TBA
 
@@ -29,7 +29,7 @@ permalink: /schedule/
 <hr>
 <br>
 # Discussion Session 2 (Date: Week 41, Location: TBA)
-#### **Topic: Parallelization, e.g., data-parallel, model-parallel**
+#### **Topic: Distributed learning, e.g., data-parallel, model-parallel**
 #### **Reading material**
 * TBA
 
