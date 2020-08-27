@@ -5,11 +5,11 @@ permalink: /course_info/
 ---
 # Course contents
 The course covers the following topics:
-1. Fundamental of ML, e.g., generalization, back-propagation, etc.
-2. Distributed learning, e.g., data-parallel, model-parallel
-3. Scheduling and optimization, e.g., model compression, gradient compression, etc.
-4. AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search
-5. Robust learning, e.g., byzantine-resilient learning
+1. Fundamental of ML, e.g., scalability, batch size, etc.
+2. Distributed learning: data-parallelization
+3. Distributed learning: model-parallelization
+4. Robust learning, e.g., byzantine-resilient learning
+5. AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search
 6. ML platforms, e.g., TensorFlow, Ray, Mllib
 
 <br>
