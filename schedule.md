@@ -4,8 +4,10 @@ title: Schedule
 permalink: /schedule/
 ---
 
-# Lecture Session 1: Sep. 28, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
-#### **Topic: Fundamental of ML, e.g., scalability, batch size, etc..**
+# **Module 1: Fundamental of ML, e.g., scalability, batch size, etc.**
+## **Lecture Session: Sep. 28, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+## **Discussion Session: Oct. 5, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+
 #### **Reading material**
 * Measuring the Effects of Data Parallelism on Neural Network Training [[pdf](/papers/2019 - Measuring the Effects of Data Parallelism on Neural Network Training.pdf)]
 * Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [[pdf](/papers/2018 - Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour.pdf)]
@@ -15,8 +17,10 @@ permalink: /schedule/
 <br>
 <hr>
 <br>
-# Discussion Session 1: Oct. 5, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
-#### **Topic: Fundamental of ML, e.g., scalability, batch size, etc.**
+# **Module 2: Distributed learning: data-parallelization**
+## **Lecture Session: Oct. 12, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+## **Discussion Session 2: Oct. 19, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+
 #### **Reading material**
 * Communication-Efficient Distributed Deep Learning: A Comprehensive Survey [[pdf](/papers/2020 - Communication-Efficient Distributed Deep Learning: A Comprehensive Survey.pdf)]
 * TicTac: Accelerating Distributed Deep Learning with Communication Scheduling [[pdf](/papers/2019 - TicTac: Accelerating Distributed Deep Learning with Communication Scheduling.pdf)]
@@ -26,79 +30,39 @@ permalink: /schedule/
 <br>
 <hr>
 <br>
-# Lecture Session 2: Oct. 12, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
-#### **Topic: Distributed learning: data-parallelization**
+# **Module 3: Distributed learning: model-parallelization**
+## **Lecture Session: Oct. 26, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+## **Discussion Session: Nov. 2, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+
 #### **Reading material**
 * TBA
 
 <br>
 <hr>
 <br>
-# Discussion Session 2: Oct. 19, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
-#### **Topic: Distributed learning: data-parallelization**
+# **Module 4: Robust learning, e.g., byzantine-resilient learning**
+## **Lecture Session: Nov. 9, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+## **Discussion Session 4: Nov. 16, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+
 #### **Reading material**
 * TBA
 
 <br>
 <hr>
 <br>
-# Lecture Session 3: Oct. 26, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
-#### **Topic: Distributed learning: model-parallelization**
+# **Module 5: AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search**
+## **Lecture Session: Nov. 23, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+## **Discussion Session: Nov. 30, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+
 #### **Reading material**
 * TBA
 
 <br>
 <hr>
 <br>
-# Discussion Session 3: Nov. 2, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
-#### **Topic: Distributed learning: model-parallelization**
-#### **Reading material**
-* TBA
+# **Module 6: ML platforms, e.g., TensorFlow, Ray, Mllib**
+## **Lecture Session: Dec. 7, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+## **Discussion Session: Dec. 14, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
 
-<br>
-<hr>
-<br>
-# Lecture Session 4: Nov. 9, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
-#### **Topic: Robust learning, e.g., byzantine-resilient learning**
-#### **Reading material**
-* TBA
-
-<br>
-<hr>
-<br>
-# Discussion Session 4: Nov. 16, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
-#### **Topic: Robust learning, e.g., byzantine-resilient learning**
-#### **Reading material**
-* TBA
-
-<br>
-<hr>
-<br>
-# Lecture Session 5: Nov. 23, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
-#### **Topic: AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search**
-#### **Reading material**
-* TBA
-
-<br>
-<hr>
-<br>
-# Discussion Session 5: Nov. 30, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
-#### **Topic: AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search**
-#### **Reading material**
-* TBA
-
-<br>
-<hr>
-<br>
-# Lecture Session 6: Dec. 7, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
-#### **Topic: ML platforms, e.g., TensorFlow, Ray, Mllib**
-#### **Reading material**
-* TBA
-
-<br>
-<hr>
-<br>
-# Discussion Session 6: Dec. 14, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
-#### **Topic: ML platforms, e.g., TensorFlow, Ray, Mllib**
 #### **Reading material**
 * TBA
