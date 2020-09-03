@@ -35,7 +35,16 @@ permalink: /schedule/
 ## **Discussion Session: Nov. 2, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
 
 #### **Reading material**
-* TBA
+* The TensorFlow Partitioning and Scheduling Problem [[pdf](/papers/2017 - The TensorFlow Partitioning and Scheduling Problem.pdf)]
+* Device Placement Optimization with Reinforcement Learning [[pdf](/papers/2017 - Device Placement Optimization with Reinforcement Learning.pdf)]
+* A Hierarchical Model for Device Placement [[pdf](/papers/2018 - A Hierarchical Model for Device Placement.pdf)]
+* Spotlight: Optimizing Device Placement for Training Deep Neural Networks [[pdf](/papers/2018 - Spotlight: Optimizing Device Placement for Training Deep Neural Networks.pdf)]
+* Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf](/papers/2019 - Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning.pdf)]
+* GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/2019 - GDP: Generalized Device Placement for Dataflow Graphs.pdf)]
+
+
+
+
 
 <br>
 <hr>
