@@ -5,8 +5,8 @@ permalink: /schedule/
 ---
 
 # **Module 1: Fundamental of ML, e.g., scalability, batch size, etc.**
-## **Lecture Session: Sep. 28, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
-## **Discussion Session: Oct. 5, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+## **Lecture Session:** Sep. 28, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/1_ml_fundamental.pdf)]
+## **Discussion Session:** Oct. 5, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 
 #### **Reading material**
 * Measuring the Effects of Data Parallelism on Neural Network Training [[pdf](/papers/2019 - Measuring the Effects of Data Parallelism on Neural Network Training.pdf)]
@@ -18,8 +18,8 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 2: Distributed learning: data-parallelization**
-## **Lecture Session: Oct. 12, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
-## **Discussion Session 2: Oct. 19, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+## **Lecture Session:** Oct. 12, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
+## **Discussion Session 2:** Oct. 19, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 
 #### **Reading material**
 * Communication-Efficient Distributed Deep Learning: A Comprehensive Survey [[pdf](/papers/2020 - Communication-Efficient Distributed Deep Learning: A Comprehensive Survey.pdf)]
@@ -31,8 +31,8 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 3: Distributed learning: model-parallelization**
-## **Lecture Session: Oct. 26, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
-## **Discussion Session: Nov. 2, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+## **Lecture Session:** Oct. 26, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
+## **Discussion Session:** Nov. 2, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 
 #### **Reading material**
 * The TensorFlow Partitioning and Scheduling Problem [[pdf](/papers/2017 - The TensorFlow Partitioning and Scheduling Problem.pdf)]
@@ -42,16 +42,12 @@ permalink: /schedule/
 * Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf](/papers/2019 - Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning.pdf)]
 * GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/2019 - GDP: Generalized Device Placement for Dataflow Graphs.pdf)]
 
-
-
-
-
 <br>
 <hr>
 <br>
 # **Module 4: Robust learning, e.g., byzantine-resilient learning**
-## **Lecture Session: Nov. 9, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
-## **Discussion Session 4: Nov. 16, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+## **Lecture Session:** Nov. 9, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
+## **Discussion Session 4:** Nov. 16, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 
 #### **Reading material**
 * TBA
@@ -60,8 +56,8 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 5: AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search**
-## **Lecture Session: Nov. 23, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
-## **Discussion Session: Nov. 30, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+## **Lecture Session:** Nov. 23, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
+## **Discussion Session:** Nov. 30, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 
 #### **Reading material**
 * TBA
@@ -70,8 +66,8 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 6: ML platforms, e.g., TensorFlow, Ray, Mllib**
-## **Lecture Session: Dec. 7, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
-## **Discussion Session: Dec. 14, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]**
+## **Lecture Session:** Dec. 7, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
+## **Discussion Session:** Dec. 14, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 
 #### **Reading material**
 * TBA
