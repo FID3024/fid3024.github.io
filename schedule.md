@@ -50,7 +50,14 @@ permalink: /schedule/
 ## **Discussion Session 4:** Nov. 16, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 
 #### **Reading material**
-* TBA
+* Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent [[pdf](/papers/2017 - Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent.pdf)]
+* Generalized Byzantine-tolerant SGD [[pdf](/papers/2018 - Generalized Byzantine-tolerant SGD.pdf)]
+* The Hidden Vulnerability of Distributed Learning in Byzantium [[pdf](/papers/2018 - The Hidden Vulnerability of Distributed Learning in Byzantium.pdf)]
+* AGGREGATHOR: Byzantine Machine Learning via Robust Gradient Aggregation [[pdf](/papers/2019 - AGGREGATHOR: Byzantine Machine Learning via Robust Gradient Aggregation.pdf)]
+* SGD: Decentralized Byzantine Resilience [[pdf](/papers/2019 - SGD: Decentralized Byzantine Resilience.pdf)]
+* Fast Machine Learning with Byzantine Workers and Servers [[pdf](/papers/2019 - Fast Machine Learning with Byzantine Workers and Servers.pdf)]
+* DRACO: Byzantine-resilient Distributed Training via Redundant Gradients [[pdf](/papers/2018 - DRACO: Byzantine-resilient Distributed Training via Redundant Gradients.pdf)] 
+
 
 <br>
 <hr>
