@@ -18,7 +18,7 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 2: Distributed learning: data-parallelization**
-## **Lecture Session:** Oct. 12, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/2-1_data_parallel.pdf)]
+## **Lecture Session:** Oct. 12, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/2-1_data_parallel.pdf)] [[video](https://kth.box.com/s/z31pw5giwiynpxlmw53gdujuhms59ngc)]
 ## **Discussion Session 2:** Oct. 19, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 
 #### **Reading material**
