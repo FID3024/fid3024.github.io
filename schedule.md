@@ -5,8 +5,8 @@ permalink: /schedule/
 ---
 
 # **Module 1: Fundamental of ML, e.g., scalability, batch size, etc.**
-## **Lecture Session:** Sep. 28, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/1_ml_fundamental.pdf)] [[video](https://kth.box.com/s/orujm4n8iwhngv9k4ysou0qvwobkez6c)]
-## **Discussion Session:** Oct. 5, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/2_ml_fundamental_discussion.pdf)] [[video](https://kth.box.com/s/8pvsw06z01h6ei6wmyq8twocvib6ln5n)]
+## **Lecture Session:** Sep. 28, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/1-1_ml_fundamental.pdf)] [[video](https://kth.box.com/s/orujm4n8iwhngv9k4ysou0qvwobkez6c)]
+## **Discussion Session:** Oct. 5, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/1-2_ml_fundamental_discussion.pdf)] [[video](https://kth.box.com/s/8pvsw06z01h6ei6wmyq8twocvib6ln5n)]
 
 #### **Reading material**
 * Measuring the Effects of Data Parallelism on Neural Network Training [[pdf](/papers/2019 - Measuring the Effects of Data Parallelism on Neural Network Training.pdf)]
@@ -18,7 +18,7 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 2: Distributed learning: data-parallelization**
-## **Lecture Session:** Oct. 12, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
+## **Lecture Session:** Oct. 12, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/2-1_data_parallel.pdf)]
 ## **Discussion Session 2:** Oct. 19, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 
 #### **Reading material**
