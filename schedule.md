@@ -52,7 +52,7 @@ permalink: /schedule/
 #### **Optional Reading**
 * Graph Representation Matters in Device Placement [[pdf](/papers/2020 - Graph Representation Matters in Device Placement.pdf)]
 * Inductive Representation Learning on Large Graphs [[pdf](/papers/2017 - Inductive Representation Learning on Large Graphs.pdf)]
-* Position-aware Graph Neural Networks [[pdf](/papers/2019 - Position-aware Graph Neural Networks.pd)]
+* Position-aware Graph Neural Networks [[pdf](/papers/2019 - Position-aware Graph Neural Networks.pdf)]
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context [[pdf](/papers/2019 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context.pdf)]
 
 <br>
