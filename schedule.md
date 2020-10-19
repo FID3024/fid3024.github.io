@@ -50,7 +50,9 @@ permalink: /schedule/
 * Spotlight: Optimizing Device Placement for Training Deep Neural Networks [[pdf](/papers/2018 - Spotlight: Optimizing Device Placement for Training Deep Neural Networks.pdf)]
 
 #### **Optional Reading**
+* Graph Representation Matters in Device Placement [[pdf](/papers/2020 - Graph Representation Matters in Device Placement.pdf)]
 * Inductive Representation Learning on Large Graphs [[pdf](/papers/2017 - Inductive Representation Learning on Large Graphs.pdf)]
+* Position-aware Graph Neural Networks [[pdf](/papers/2019 - Position-aware Graph Neural Networks.pd)]
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context [[pdf](/papers/2019 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context.pdf)]
 
 <br>
