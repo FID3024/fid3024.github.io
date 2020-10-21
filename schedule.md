@@ -33,6 +33,10 @@ permalink: /schedule/
 #### **Optional Reading**
 * More Effective Distributed ML via a Stale Synchronous Parallel Parameter Server [[pdf](/papers/2013 - More Effective Distributed ML via a Stale Sychronous Parallel Parameter Server.pdf)]
 * Scaling Distributed Machine Learning with the Parameter Server [[pdf](/papers/2014 - Scaling Distributed Machine Learning with the Parameter Server.pdf)]
+* MG-WFBP: Efficient Data Communication for Distributed Synchronous SGD Algorithms [[pdf](/papers/2018 - MG-WFBP: Efficient Data Communication for Distributed Synchronous SGD Algorithms.pdf)]
+* Gradient Coding: Avoiding Stragglers in Distributed Learning [[pdf](/papers/2017 - Gradient Coding: Avoiding Stragglers in Distributed Learning.pdf)]
+* Asynchronous Decentralized Parallel Stochastic Gradient Descent [[pdf](/papers/2018 - Asynchronous Decentralized Parallel Stochastic Gradient Descent.pdf)]
+* GossipGraD: Scalable Deep Learning using Gossip Communication based Asychronous Gradient Descent [[pdf](/papers/2018 - GossipGraD: Scalable Deep Learning using Gossip Communication based Asychronous Gradient Descent.pdf)]
 
 <br>
 <hr>
@@ -46,13 +50,14 @@ permalink: /schedule/
 * Device Placement Optimization with Reinforcement Learning [[pdf](/papers/2017 - Device Placement Optimization with Reinforcement Learning.pdf)]
 * A Hierarchical Model for Device Placement [[pdf](/papers/2018 - A Hierarchical Model for Device Placement.pdf)]
 * Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf](/papers/2019 - Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning.pdf)]
-* GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/2019 - GDP: Generalized Device Placement for Dataflow Graphs.pdf)]
+* A Single-Shot Generalized Device Placement for Large Dataflow Graphs [[pdf](/papers/2020 - A Single-Shot Generalized Device Placement for Large Dataflow Graphs.pdf)]
 * Spotlight: Optimizing Device Placement for Training Deep Neural Networks [[pdf](/papers/2018 - Spotlight: Optimizing Device Placement for Training Deep Neural Networks.pdf)]
 
 #### **Optional Reading**
 * Graph Representation Matters in Device Placement [[pdf](/papers/2020 - Graph Representation Matters in Device Placement.pdf)]
 * Inductive Representation Learning on Large Graphs [[pdf](/papers/2017 - Inductive Representation Learning on Large Graphs.pdf)]
 * Position-aware Graph Neural Networks [[pdf](/papers/2019 - Position-aware Graph Neural Networks.pdf)]
+* GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/2019 - GDP: Generalized Device Placement for Dataflow Graphs.pdf)]
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context [[pdf](/papers/2019 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context.pdf)]
 
 <br>
