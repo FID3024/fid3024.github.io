@@ -42,7 +42,7 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 3: Distributed learning: model-parallelization**
-## **Lecture Session:** Oct. 26, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
+## **Lecture Session:** Oct. 26, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/3-1_model_parallel.pdf)]
 ## **Discussion Session:** Nov. 2, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 
 #### **Required Reading**
