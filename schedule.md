@@ -77,6 +77,7 @@ permalink: /schedule/
 
 #### **Optional Reading**
 * Generalized Byzantine-tolerant SGD [[pdf](/papers/2018 - Generalized Byzantine-tolerant SGD.pdf)]
+* SoK: Security and Privacy in Machine Learning [[pdf](/papers/2018 - SoK: Security and Privacy in Machine Learning.pdf)]
 
 <br>
 <hr>
@@ -86,10 +87,19 @@ permalink: /schedule/
 ## **Discussion Session:** Nov. 30, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 
 #### **Required Reading**
-* TBA
+* Automated Machine Learning: State-of-The-Art and Open Challenges [[pdf](/papers/2019 - Automated Machine Learning: State-of-The-Art and Open Challenges.pdf)]
+* BOHB: Robust and Efficient Hyperparameter Optimization at Scale [[pdf](/papers/2018 - BOHB: Robust and Efficient Hyperparameter Optimization at Scale.pdf)]
+* A System for Massively Parallel Hyperparameter Tuning [[pdf](/papers/2020 - A System for Massively Parallel Hyperparameter Tuning.pdf)]
+* DARTS: Differentable Architecture Search [[pdf](/papers/2019 - DARTS: Differentable Architecture Search.pdf)]
+* ASAP: Architecture Search, Anneal and Prune [[pdf](/papers/2020 - ASAP: Architecture Search, Anneal and Prune.pdf)]
 
 #### **Optional Reading**
-* TBA
+* AutoML Book - Hyperparameter Optimization [[pdf](/papers/2018 - AutoML Book - Hyperparameter Optimization.pdf)]
+* AutoML Book - Meta-Learning [[pdf](/papers/2018 - AutoML Book - Meta-Learning.pdf)]
+* AutoML Book -  Neural Architecutre Search [[pdf](/papers/2018 - AutoML Book -  Neural Architecutre Search.pdf)]
+* Non-stochastic Best Arm Identification and Hyperparameter Optimization [[pdf](/papers/2015 - Non-stochastic Best Arm Identification and Hyperparameter Optimization.pdf)]
+* Hyperband: A Novel Bandit-based Approach to Hyperparameter Optimization [[pdf](/papers/2018 - Hyperband: A novel bandit-based approach to hyperparameter optimization.pdf)]
+* Maggy: Scalable Asynchronous Parallel Hyperparameter Search [[pdf](/papers/2020 - Maggy: Scalable Asynchronous Parallel Hyperparameter Search.pdf)]
 
 <br>
 <hr>
