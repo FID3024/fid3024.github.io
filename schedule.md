@@ -42,8 +42,8 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 3: Distributed learning: model-parallelization**
-## **Lecture Session:** Oct. 26, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/3-1_model_parallel.pdf)]
-## **Discussion Session:** Nov. 2, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
+## **Lecture Session:** Oct. 26, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/3-1_model_parallel.pdf)] [[video](https://kth.box.com/s/mt9y1a227gnkjfd1ml3sf9hwn3d0595r)]
+## **Discussion Session:** Nov. 2, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/3-2_model_parallel.pdf)]
 
 #### **Required Reading**
 * The TensorFlow Partitioning and Scheduling Problem [[pdf](/papers/2017 - The TensorFlow Partitioning and Scheduling Problem.pdf)]
@@ -54,10 +54,12 @@ permalink: /schedule/
 * Spotlight: Optimizing Device Placement for Training Deep Neural Networks [[pdf](/papers/2018 - Spotlight: Optimizing Device Placement for Training Deep Neural Networks.pdf)]
 
 #### **Optional Reading**
+* GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/2019 - GDP: Generalized Device Placement for Dataflow Graphs.pdf)]
+* Post: Device Placement with Cross-Entropy Minimization and Proximal Policy Optimization [[pdf](/papers/2018 - Post: Device Placement with Cross-Entropy Minimization and Proximal Policy Optimization.pdf)]
+* Beyonf Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/2019 - Beyonf Data and Model Parallelism for Deep Neural Networks.pdf)]
 * Graph Representation Matters in Device Placement [[pdf](/papers/2020 - Graph Representation Matters in Device Placement.pdf)]
 * Inductive Representation Learning on Large Graphs [[pdf](/papers/2017 - Inductive Representation Learning on Large Graphs.pdf)]
 * Position-aware Graph Neural Networks [[pdf](/papers/2019 - Position-aware Graph Neural Networks.pdf)]
-* GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/2019 - GDP: Generalized Device Placement for Dataflow Graphs.pdf)]
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context [[pdf](/papers/2019 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context.pdf)]
 
 <br>
