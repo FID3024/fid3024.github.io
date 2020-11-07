@@ -101,6 +101,7 @@ permalink: /schedule/
 * AutoML Book -  Neural Architecutre Search [[pdf](/papers/2018 - AutoML Book -  Neural Architecutre Search.pdf)]
 * Non-stochastic Best Arm Identification and Hyperparameter Optimization [[pdf](/papers/2015 - Non-stochastic Best Arm Identification and Hyperparameter Optimization.pdf)]
 * Hyperband: A Novel Bandit-based Approach to Hyperparameter Optimization [[pdf](/papers/2018 - Hyperband: A novel bandit-based approach to hyperparameter optimization.pdf)]
+* Random Search and Reproducibility for Neural Architecture Search [[pdf](/papers/2020 - Random Search and Reproducibility for Neural Architecture Search.pdf)]
 * Maggy: Scalable Asynchronous Parallel Hyperparameter Search [[pdf](/papers/2020 - Maggy: Scalable Asynchronous Parallel Hyperparameter Search.pdf)]
 
 <br>
