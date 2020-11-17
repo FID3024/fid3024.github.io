@@ -56,7 +56,6 @@ permalink: /schedule/
 #### **Optional Reading**
 * GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/2019 - GDP: Generalized Device Placement for Dataflow Graphs.pdf)]
 * Post: Device Placement with Cross-Entropy Minimization and Proximal Policy Optimization [[pdf](/papers/2018 - Post: Device Placement with Cross-Entropy Minimization and Proximal Policy Optimization.pdf)]
-* Beyonf Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/2019 - Beyonf Data and Model Parallelism for Deep Neural Networks.pdf)]
 * Graph Representation Matters in Device Placement [[pdf](/papers/2020 - Graph Representation Matters in Device Placement.pdf)]
 * Inductive Representation Learning on Large Graphs [[pdf](/papers/2017 - Inductive Representation Learning on Large Graphs.pdf)]
 * Position-aware Graph Neural Networks [[pdf](/papers/2019 - Position-aware Graph Neural Networks.pdf)]
@@ -67,7 +66,7 @@ permalink: /schedule/
 <br>
 # **Module 4: Robust learning, e.g., byzantine-resilient learning**
 ## **Lecture Session:** Nov. 9, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/4-1_robust_learning.pdf)] [[video](https://kth.box.com/s/k9zk9zg058ddn92vohkvn0ysuhlqbgtz)]
-## **Discussion Session 4:** Nov. 16, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
+## **Discussion Session 4:** Nov. 16, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/4-2_robust_learning.pdf)]
 
 #### **Required Reading**
 * Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent [[pdf](/papers/2017 - Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent.pdf)]
@@ -107,12 +106,23 @@ permalink: /schedule/
 <br>
 <hr>
 <br>
-# **Module 6: ML platforms, e.g., TensorFlow, Ray, Mllib**
+# **Module 6: ML platforms, e.g., BigDL, PyTorch Distributed, ZeRO**
 ## **Lecture Session:** Dec. 7, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 ## **Discussion Session:** Dec. 14, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 
 #### **Required Reading**
-* TBA
+* BigDL: A Distributed Deep Learning Framework for Big Data [[pdf](/papers/2019 - BigDL: A Distributed Deep Learning Framework for Big Data.pdf)]
+* PyTorch Distributed: Experiences on Accelerating Data Parallel Training.pdf [[pdf](/papers/2020 - PyTorch Distributed: Experiences on Accelerating Data Parallel Training.pdf)]
+* ZeRO: Memory Optimizations Toward Training Trillion Parameter Models.pdf [[pdf](/papers/2020 - ZeRO: Memory Optimizations Toward Training Trillion Parameter Models.pdf)]
+* Beyonf Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/2019 - Beyonf Data and Model Parallelism for Deep Neural Networks.pdf)]
 
 #### **Optional Reading**
-* TBA
+* Caffe: Convolutional Architecture for Fast Feature Embedding [[pdf](/papers/2014 - Caffe: Convolutional Architecture for Fast Feature Embedding.pdf)]
+* MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems [[pdf](/papers/2015 - MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems.pdf)]
+* TensorFlow: A system for large-scale machine learning [[pdf](/papers/2016 - TensorFlow: A system for large-scale machine learning.pdf)]
+* Horovod: fast and easy distributed deep learning in TensorFlow [[pdf](/papers/2018 - Horovod: fast and easy distributed deep learning in TensorFlow.pdf)]
+* Mesh-TensorFlow: Deep Learning for Supercomputers [[pdf](/papers/2018 - Mesh-TensorFlow: Deep Learning for Supercomputers.pdf)]
+* MXNET-MPI: Embedding MPI parallelism in Parameter Server Task Model for Scaling Deep Learning [[pdf](/papers/2018 - MXNET-MPI: Embedding MPI parallelism in Parameter Server Task Model for Scaling Deep Learning.pdf)]
+* PyTorch: An Imperative Style, High-Performance [[pdf](/papers/2019 - PyTorch: An Imperative Style, High-Performance.pdf)]
+* HyPar-Flow: Exploiting MPI and Keras for Scalable Hybrid-Parallel DNN Training using TensorFlow [[pdf](/papers/2020 - HyPar-Flow: Exploiting MPI and Keras for Scalable Hybrid-Parallel DNN Training using TensorFlow.pdf)]
+* Towards a Scalable and Distributed Infrastructure for Deep Learning Applications [[pdf](/papers/2020 - Towards a Scalable and Distributed Infrastructure for Deep Learning Applications.pdf)]

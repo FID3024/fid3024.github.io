@@ -10,7 +10,7 @@ The course covers the following topics:
 3. Distributed learning: model-parallelization
 4. Robust learning, e.g., byzantine-resilient learning
 5. AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search
-6. ML platforms, e.g., TensorFlow, Ray, Mllib
+6. ML platforms, e.g., BigDL, PyTorch Distributed, ZeRO
 
 <br>
 <hr>
