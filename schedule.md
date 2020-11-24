@@ -84,7 +84,7 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 5: AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search**
-## **Lecture Session:** Nov. 23, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/5-1_automl.pdf)]
+## **Lecture Session:** Nov. 23, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/5-1_automl.pdf)] [[video](https://kth.box.com/s/mbb0nafd4721t4we4ercwdph4adgi0ru)]
 ## **Discussion Session:** Nov. 30, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 
 #### **Required Reading**
