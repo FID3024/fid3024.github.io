@@ -66,7 +66,7 @@ permalink: /schedule/
 <br>
 # **Module 4: Robust learning, e.g., byzantine-resilient learning**
 ## **Lecture Session:** Nov. 9, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/4-1_robust_learning.pdf)] [[video](https://kth.box.com/s/k9zk9zg058ddn92vohkvn0ysuhlqbgtz)]
-## **Discussion Session 4:** Nov. 16, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/4-2_robust_learning.pdf)]
+## **Discussion Session 4:** Nov. 16, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/4-2_robust_learning.pdf)] [[video](https://kth.box.com/s/411z1uduxdfryu3whniu357k6zuvpdfo)]
 
 #### **Required Reading**
 * Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent [[pdf](/papers/2017 - Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent.pdf)]
