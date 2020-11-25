@@ -123,6 +123,7 @@ permalink: /schedule/
 * Horovod: fast and easy distributed deep learning in TensorFlow [[pdf](/papers/2018 - Horovod: fast and easy distributed deep learning in TensorFlow.pdf)]
 * Mesh-TensorFlow: Deep Learning for Supercomputers [[pdf](/papers/2018 - Mesh-TensorFlow: Deep Learning for Supercomputers.pdf)]
 * MXNET-MPI: Embedding MPI parallelism in Parameter Server Task Model for Scaling Deep Learning [[pdf](/papers/2018 - MXNET-MPI: Embedding MPI parallelism in Parameter Server Task Model for Scaling Deep Learning.pdf)]
+* GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[pdf](/papers/2019 - GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism.pdf)]
 * PyTorch: An Imperative Style, High-Performance [[pdf](/papers/2019 - PyTorch: An Imperative Style, High-Performance.pdf)]
 * HyPar-Flow: Exploiting MPI and Keras for Scalable Hybrid-Parallel DNN Training using TensorFlow [[pdf](/papers/2020 - HyPar-Flow: Exploiting MPI and Keras for Scalable Hybrid-Parallel DNN Training using TensorFlow.pdf)]
 * Towards a Scalable and Distributed Infrastructure for Deep Learning Applications [[pdf](/papers/2020 - Towards a Scalable and Distributed Infrastructure for Deep Learning Applications.pdf)]
