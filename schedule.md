@@ -112,8 +112,8 @@ permalink: /schedule/
 
 #### **Required Reading**
 * BigDL: A Distributed Deep Learning Framework for Big Data [[pdf](/papers/2019 - BigDL: A Distributed Deep Learning Framework for Big Data.pdf)]
-* PyTorch Distributed: Experiences on Accelerating Data Parallel Training.pdf [[pdf](/papers/2020 - PyTorch Distributed: Experiences on Accelerating Data Parallel Training.pdf)]
-* ZeRO: Memory Optimizations Toward Training Trillion Parameter Models.pdf [[pdf](/papers/2020 - ZeRO: Memory Optimizations Toward Training Trillion Parameter Models.pdf)]
+* PyTorch Distributed: Experiences on Accelerating Data Parallel Training [[pdf](/papers/2020 - PyTorch Distributed: Experiences on Accelerating Data Parallel Training.pdf)]
+* ZeRO: Memory Optimizations Toward Training Trillion Parameter Models [[pdf](/papers/2020 - ZeRO: Memory Optimizations Toward Training Trillion Parameter Models.pdf)]
 * Beyonf Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/2019 - Beyonf Data and Model Parallelism for Deep Neural Networks.pdf)]
 
 #### **Optional Reading**
