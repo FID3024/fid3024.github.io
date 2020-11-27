@@ -107,7 +107,7 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 6: ML platforms, e.g., BigDL, PyTorch Distributed, ZeRO**
-## **Lecture Session:** Dec. 7, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/6-1_systems.pdf)]
+## **Lecture Session:** Dec. 7, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/6-1_systems.pdf)] [[video](https://kth.box.com/s/jjdjaixv0tt03txh62sjve42lfmpls28)]
 ## **Discussion Session:** Dec. 14, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)]
 
 #### **Required Reading**
