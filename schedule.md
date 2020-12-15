@@ -5,8 +5,8 @@ permalink: /schedule/
 ---
 
 # **Module 1: Fundamental of ML, e.g., scalability, batch size, etc.**
-## **Lecture Session:** Sep. 28, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/1-1_ml_fundamental.pdf)] [[video](https://kth.box.com/s/orujm4n8iwhngv9k4ysou0qvwobkez6c)]
-## **Discussion Session:** Oct. 5, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/1-2_ml_fundamental_discussion.pdf)] [[video](https://kth.box.com/s/8pvsw06z01h6ei6wmyq8twocvib6ln5n)]
+## **Lecture Session:** Sep. 28, 15:00-17:00 [[slides](/slides/1-1_ml_fundamental.pdf)] [[video](https://kth.box.com/s/orujm4n8iwhngv9k4ysou0qvwobkez6c)]
+## **Discussion Session:** Oct. 5, 15:00-17:00 [[slides](/slides/1-2_ml_fundamental_discussion.pdf)] [[video](https://kth.box.com/s/8pvsw06z01h6ei6wmyq8twocvib6ln5n)]
 
 #### **Required Reading**
 * Measuring the Effects of Data Parallelism on Neural Network Training [[pdf](/papers/2019 - Measuring the Effects of Data Parallelism on Neural Network Training.pdf)]
@@ -21,8 +21,8 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 2: Distributed learning: data-parallelization**
-## **Lecture Session:** Oct. 12, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/2-1_data_parallel.pdf)] [[video](https://kth.box.com/s/z31pw5giwiynpxlmw53gdujuhms59ngc)]
-## **Discussion Session 2:** Oct. 19, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/2-2_data_parallel.pdf)] [[video](https://kth.box.com/s/jiyj2pvr7zhy1n2yni7ol6kjcs1r8o0k)]
+## **Lecture Session:** Oct. 12, 15:00-17:00 [[slides](/slides/2-1_data_parallel.pdf)] [[video](https://kth.box.com/s/z31pw5giwiynpxlmw53gdujuhms59ngc)]
+## **Discussion Session 2:** Oct. 19, 15:00-17:00 [[slides](/slides/2-2_data_parallel.pdf)] [[video](https://kth.box.com/s/jiyj2pvr7zhy1n2yni7ol6kjcs1r8o0k)]
 
 #### **Required Reading**
 * Communication-Efficient Distributed Deep Learning: A Comprehensive Survey [[pdf](/papers/2020 - Communication-Efficient Distributed Deep Learning: A Comprehensive Survey.pdf)]
@@ -42,8 +42,8 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 3: Distributed learning: model-parallelization**
-## **Lecture Session:** Oct. 26, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/3-1_model_parallel.pdf)] [[video](https://kth.box.com/s/mt9y1a227gnkjfd1ml3sf9hwn3d0595r)]
-## **Discussion Session:** Nov. 2, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/3-2_model_parallel.pdf)]
+## **Lecture Session:** Oct. 26, 15:00-17:00 [[slides](/slides/3-1_model_parallel.pdf)] [[video](https://kth.box.com/s/mt9y1a227gnkjfd1ml3sf9hwn3d0595r)]
+## **Discussion Session:** Nov. 2, 15:00-17:00 [[slides](/slides/3-2_model_parallel.pdf)]
 
 #### **Required Reading**
 * The TensorFlow Partitioning and Scheduling Problem [[pdf](/papers/2017 - The TensorFlow Partitioning and Scheduling Problem.pdf)]
@@ -65,8 +65,8 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 4: Robust learning, e.g., byzantine-resilient learning**
-## **Lecture Session:** Nov. 9, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/4-1_robust_learning.pdf)] [[video](https://kth.box.com/s/k9zk9zg058ddn92vohkvn0ysuhlqbgtz)]
-## **Discussion Session 4:** Nov. 16, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/4-2_robust_learning.pdf)] [[video](https://kth.box.com/s/411z1uduxdfryu3whniu357k6zuvpdfo)]
+## **Lecture Session:** Nov. 9, 15:00-17:00 [[slides](/slides/4-1_robust_learning.pdf)] [[video](https://kth.box.com/s/k9zk9zg058ddn92vohkvn0ysuhlqbgtz)]
+## **Discussion Session 4:** Nov. 16, 15:00-17:00 [[slides](/slides/4-2_robust_learning.pdf)] [[video](https://kth.box.com/s/411z1uduxdfryu3whniu357k6zuvpdfo)]
 
 #### **Required Reading**
 * Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent [[pdf](/papers/2017 - Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent.pdf)]
@@ -84,8 +84,8 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 5: AutoML, e.g., hyperparameter optimization, meta learning, and neural architecture search**
-## **Lecture Session:** Nov. 23, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/5-1_automl.pdf)] [[video](https://kth.box.com/s/mbb0nafd4721t4we4ercwdph4adgi0ru)]
-## **Discussion Session:** Nov. 30, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/5-2_automl.pdf)] [[video](https://kth.box.com/s/8y7cn8iqrox9nm8iar6zw2pxi8w9q8a7)]
+## **Lecture Session:** Nov. 23, 15:00-17:00 [[slides](/slides/5-1_automl.pdf)] [[video](https://kth.box.com/s/mbb0nafd4721t4we4ercwdph4adgi0ru)]
+## **Discussion Session:** Nov. 30, 15:00-17:00 [[slides](/slides/5-2_automl.pdf)] [[video](https://kth.box.com/s/8y7cn8iqrox9nm8iar6zw2pxi8w9q8a7)]
 
 #### **Required Reading**
 * Automated Machine Learning: State-of-The-Art and Open Challenges [[pdf](/papers/2019 - Automated Machine Learning: State-of-The-Art and Open Challenges.pdf)]
@@ -107,8 +107,8 @@ permalink: /schedule/
 <hr>
 <br>
 # **Module 6: ML platforms, e.g., BigDL, PyTorch Distributed, ZeRO**
-## **Lecture Session:** Dec. 7, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/6-1_systems.pdf)] [[video](https://kth.box.com/s/jjdjaixv0tt03txh62sjve42lfmpls28)]
-## **Discussion Session:** Dec. 14, 15:00-17:00 [[zoom](https://kth-se.zoom.us/j/2884945301)] [[slides](/slides/6-2_systems.pdf)]
+## **Lecture Session:** Dec. 7, 15:00-17:00 [[slides](/slides/6-1_systems.pdf)] [[video](https://kth.box.com/s/jjdjaixv0tt03txh62sjve42lfmpls28)]
+## **Discussion Session:** Dec. 14, 15:00-17:00 [[slides](/slides/6-2_systems.pdf)]
 
 #### **Required Reading**
 * BigDL: A Distributed Deep Learning Framework for Big Data [[pdf](/papers/2019 - BigDL: A Distributed Deep Learning Framework for Big Data.pdf)]
